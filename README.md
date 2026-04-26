@@ -22,6 +22,14 @@ The main goal of this project is to demonstrate backend integration with Microso
 
 ---
 
+## User interface
+
+The application provides a simple and clean web interface for creating and managing Microsoft Teams online meetings.
+
+![Architecture](images/ui.png)
+
+---
+
 ## Technology Stack
 
 - Java 20
